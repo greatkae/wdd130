@@ -1,0 +1,19 @@
+#first-paragraph {
+    color: blueviolet;
+    font-size: x-large;
+    font-weight: bolder;
+}
+#paragraph-two{
+    color: yellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: brown;    
+}
+.the-rest{
+    color: antiquewhite;
+    font-size: xx-large;
+    background-color: black;
+}
+#special-one {
+    color:pink;
+
+}
